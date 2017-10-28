@@ -1,6 +1,6 @@
 {
   "name": "create-vcard",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Create a vCard from an object. Simple wrapper around [`vcards-js`](https://npm.im/vcards-js).",
   "repository": {
     "type": "git",
